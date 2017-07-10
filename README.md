@@ -1,29 +1,23 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+Documentation for the speech transcription platform.
+The platform was developed by MuST North-West University and the project was sponsored by the Department of Arts and Culture of South Africa.
 
 ### What is this repository for? ###
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+A collection of documentation developed over the course of the project.
+* Design
+* User manual for user interface
 
 ### How do I get set up? ###
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+No setup required.
 
 ### Contribution guidelines ###
 
-* Writing tests
-* Code review
-* Other guidelines
+The documentation will be read-only as the repository is for documentation access only.
 
 ### Who do I talk to? ###
 
-* Repo owner or admin
-* Other community or team contact
+Contact Neil Kleynhans <ntkleynhans@gmail.com>
+
