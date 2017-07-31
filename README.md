@@ -1,7 +1,8 @@
-# README #
+Speech Transcription Platform Documentation
+===========================================
 
-Documentation for the speech transcription platform.
-The platform was developed by MuST North-West University and the project was sponsored by the Department of Arts and Culture of South Africa.
+Documentation for the speech transcription platform. The platform was developed by the [Multilingual Speech Technologies](http://www.nwu.ac.za/must/) group at North-West University and the project was sponsored by the Department of Arts and Culture of South Africa.
+
 
 ### What is this repository for? ###
 
@@ -20,4 +21,3 @@ The documentation will be read-only as the repository is for documentation acces
 ### Who do I talk to? ###
 
 Contact Neil Kleynhans <ntkleynhans@gmail.com>
-
